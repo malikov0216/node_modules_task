@@ -1,0 +1,31 @@
+{
+  "name": "modules-for-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bpmn-js": "^3.4.3",
+    "dmn-js": "^6.3.3",
+    "env-cmd": "^9.0.3",
+    "fast-xml-parser": "^3.12.16",
+    "file-saver": "^2.0.2",
+    "jsonpath": "^1.0.2",
+    "lodash": "^4.17.11",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-page-loading": "^1.0.2",
+    "react-redux": "^7.1.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.0.1",
+    "redux": "^4.0.1",
+    "redux-persist": "^5.10.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.87.2",
+    "xml-beautifier": "^0.4.1"
+  }
+}
